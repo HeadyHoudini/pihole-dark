@@ -2,7 +2,7 @@
 Custom-styles of pihole
 
 
-![Example Dashboard](https://raw.githubusercontent.com/TheHeadyTV/pihole-theme/master/pics/Dashboard.png)
+![Example Dashboard](https://raw.githubusercontent.com/TheHeadyTV/pihole-dark/master/pics/Dashboard.png)
 
 ###
 
