@@ -10,7 +10,7 @@ Custom-styles of pihole
 ### Installing
 
 1. Type: `cd /var/www/html/`
-2. Type: `sudo wget -O install.sh https://raw.githubusercontent.com/TheHeadyTV/pihole/master/installer.sh`
+2. Type: `sudo wget -O install.sh https://raw.githubusercontent.com/TheHeadyTV/pihole-dark/master/installer.sh`
 3. Type: `sudo chmod +x install.sh`
 4. Type: `sudo ./install.sh`
 5. Follow the onscreen instructions!
