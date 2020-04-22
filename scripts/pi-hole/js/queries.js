@@ -117,9 +117,10 @@ function autofilter(){
 $(document).ready(function() {
     var status;
     
+	// Colors
     var cRed = "#FF551C"
     var cGreen = "#68FF30"
-    var cOrange ="##FFA23B"
+    var cOrange ="#FFA23B"
 
     // Do we want to filter queries?
     var GETDict = {};
